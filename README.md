@@ -1,22 +1,22 @@
-\# DIO | Git e GitHub
+# DIO | Git e GitHub
 
 
 
-Repositório para armazenar aulas, resumos e material de estudo sobre Git e GitHub do curso Versionamento de Código com Git e GitHub da \[Digital Innovation One](https://www.dio.me/).
+Repositório para armazenar aulas, resumos e material de estudo sobre Git e GitHub do curso Versionamento de Código com Git e GitHub da [Digital Innovation One](https://www.dio.me/).
 
 
 
-\## 📚 Documentação
+## 📚 Documentação
 
-\- \[Documentação Git](https://git.SCM.COM/doc)
-
-
-
-\- \[Documentação GitHub](https://docs.github.com/pt)
+- [Documentação Git](https://git.SCM.COM/doc)
 
 
 
-\## 💻 Resumos das Aulas 
+- [Documentação GitHub](https://docs.github.com/pt)
+
+
+
+## 💻 Resumos das Aulas 
 
 
 
@@ -48,13 +48,13 @@ git init
 
 
 
-\## 🔍 Referências
+## 🔍 Referências
 
 - https://git-scm.com/
 - https://docs.github.com/
 - https://github.blog/
 
-\[Digital Innovation Onei]()
+ [Digital Innovation Onei](https://www.dio.me/).
 
 
-
+👾 Criado por: Matheus Duarte 
