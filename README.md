@@ -10,7 +10,7 @@ Repositório para armazenar aulas, resumos e material de estudo sobre Git e GitH
 
 - [Documentação Git](https://git.SCM.COM/doc)
 
-  [ Repositorio dio-lab-open-source ](https://github.com/digitalinnovationone/dio-lab-open-source)
+- [ Repositorio dio-lab-open-source ](https://github.com/digitalinnovationone/dio-lab-open-source)
 
 - [Documentação GitHub](https://docs.github.com/pt)
 
